@@ -7,6 +7,15 @@ different modules and various implementations:
 
 ![alt text](https://github.com/srujansurapaneni/Self-Driving-Pi-Car/blob/master/Collage_Fotor.jpg)
 
+# instructions:
+On car:
+- ssh into the car
+- cd into remote_control and ./start
+
+On client:
+- cd into client folder
+- run python (conda py 3 env) client.py
+
 # Hardware:
 # Software:
 # Connections:
